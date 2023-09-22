@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "619734322073",
+    "project_id": "cards-58c1e",
+    "storage_bucket": "cards-58c1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619734322073:android:326a8c49b06b1c73212108",
+        "android_client_info": {
+          "package_name": "com.cards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619734322073-ar28sht3tv2vu6gr35ib8fborn8dqvpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7eWCviakIVJ-aJvh1UlT9Uuh_FyZTKP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619734322073-ar28sht3tv2vu6gr35ib8fborn8dqvpd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "619734322073-l0g77k128hi73tj7cjsdnj8sm849ktns.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cards"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619734322073:android:9f6e73b9eb3c3540212108",
+        "android_client_info": {
+          "package_name": "com.hero.cards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619734322073-ar28sht3tv2vu6gr35ib8fborn8dqvpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7eWCviakIVJ-aJvh1UlT9Uuh_FyZTKP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619734322073-ar28sht3tv2vu6gr35ib8fborn8dqvpd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "619734322073-l0g77k128hi73tj7cjsdnj8sm849ktns.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cards"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
